@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">ParkingTicket</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_image">Choose Image</string>
+    <string-array name="CarBrand">
+        <item>BMW</item>
+        <item>Jaguar</item>
+        <item>Audi</item>
+        <item>Ferrari</item>
+        <item>Chrysler</item>
+        <item>Mercedes-Benz</item>
+        <item>Acura</item>
+    </string-array>
+
+    <string-array name="CarColor">
+        <item>White</item>
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Grey</item>
+    </string-array>
+
+    <string-array name="CarLane">
+        <item>Lane1</item>
+        <item>Lane2</item>
+        <item>Lane3</item>
+        <item>Lane4</item>
+        <item>Lane5</item>
+    </string-array>
+
+    <string-array name="SpotNum">
+        <item>P1</item>
+        <item>P2</item>
+        <item>P3</item>
+        <item>P4</item>
+        <item>P5</item>
+        <item>P6</item>
+        <item>P7</item>
+        <item>P8</item>
+    </string-array>
+
+    <string-array name="PaymentMethod">
+        <item>Credit Card</item>
+        <item>Debit Card</item>
+        <item>Cash</item>
+    </string-array>
+</resources>
